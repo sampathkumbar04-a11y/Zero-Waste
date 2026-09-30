@@ -1,0 +1,6 @@
+{
+  "name": "Zero-Waste Pantry & Expiration Tracker",
+  "description": "Track pantry freshness, calculate shelf life, prevent grocery waste, scan food pictures with AI to define items and expiration dates, and generate creative recipes with Gemini.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
